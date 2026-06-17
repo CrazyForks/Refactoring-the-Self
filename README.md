@@ -39,7 +39,12 @@
 这里记录成长、创业、技术与人生重构的全过程。
 
 👉 [阅读 第01章：《我被三百块钱赶出了学校》](./chapters/01-kicked-out-for-300.md)
+
 👉 [阅读 第02章：《实验班名单上，没有我的名字》](./chapters/02-experimental-class-list.md)
+
+👉 [阅读 第03章：《四百只鸭子》](./chapters/03-four-hundred-ducks.md)
+
+👉 [阅读 第04章：《四星村的鳝鱼》（预告）](./chapters/04-sixing-village-eels.md)
 
 ---
 

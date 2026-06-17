@@ -72,5 +72,5 @@
 
 ---
 
-[← 上一章](./01-kicked-out-for-300.md) | [返回目录](../README.md) | 下一章 →
+[← 上一章](./01-kicked-out-for-300.md) | [返回目录](../README.md) | [下一章 →](./03-four-hundred-ducks.md)
 
