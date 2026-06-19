@@ -1,42 +1,15 @@
+![底层重构](./cover.png)
+
 # Life is a legacy system that requires constant refactoring.
 
-1999 年，我因为三百块钱学费离开学校。
-
-后来放过鸭子、修过客车、跑过长途、进过工厂，也做过网站、写过代码、创过业。
-
-一路走来，我越来越相信：
+## 底层重构
 
 > 人生和软件系统其实很像。
 > 都会积累技术债，都会经历失控，也都需要不断重构。
 
-今天，我主要专注于 AI、SaaS、云原生架构与产品工程。
+👉 [关于作者](./ABOUT.md)
 
-这个 GitHub 记录的不只是代码。
-
-这里有我构建的产品、踩过的坑、做过的实验，也有关于创业、成长与系统重构的思考。
-
-从湖北洪湖满手机油的修车少年，到坐在 MacBook 前编写代码的开发者，这条路并不完美，也从来不是直线。
-
-## 🚀 Current Focus
-
-* AI Applications & Agent Systems
-* SaaS Architecture & Product Engineering
-* Golang / PHP / TypeScript / Vue
-* Product Validation & Growth
-* 《底层重构》人生记录计划
-
-## 📖 Philosophy
-
-> 人生和软件一样，最大的敌人不是 Bug，而是停止迭代。
-
-
-📚 底层重构
-
-《底层重构》是我正在持续记录的人生项目。
-
-从湖北洪湖的修车少年，到 SaaS 产品开发者。
-
-这里记录成长、创业、技术与人生重构的全过程。
+### 连载目录
 
 👉 [阅读 第01章：《我被三百块钱赶出了学校》](./chapters/01-kicked-out-for-300.md)
 
@@ -46,7 +19,15 @@
 
 👉 [阅读 第04章：《四星村的鳝鱼》](./chapters/04-sixing-village-eels.md)
 
-👉 [阅读 第05章：《爷爷的鸭棚》（预告）](./chapters/05-grandpas-duck-shed.md)
+👉 [阅读 第05章：《爷爷的鸭棚》](./chapters/05-grandpas-duck-shed.md)
+
+👉 [阅读 第06章：《千禧年，第一次进城的少年》（预告）](./chapters/06-millennium-first-trip-to-city.md)
+
+### 为什么写《底层重构》
+
+人生和软件系统其实很像。都会积累技术债，都会经历失控，也都需要不断重构。
+
+把这些经历写下来，既是对自己的交代，也是想把那些走过的弯路、吃过的苦、重新站起来的过程，留给后来的人看一看。
 
 ---
 
