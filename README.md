@@ -25,7 +25,9 @@
 
 👉 [阅读 第06章：《千禧年，第一次进城的少年》](./chapters/06-millennium-first-trip-to-city.md)
 
-👉 [阅读 第07章：《出租屋里的火气》（预告）](./chapters/07-rental-room-anger.md)
+👉 [阅读 第07章：《出租屋里的火气》](./chapters/07-rental-room-anger.md)
+
+👉 [阅读 第08章：《黑兮兮的修理槽》（预告）](./chapters/08-repair-pit.md)
 
 ### 为什么写《底层重构》
 
