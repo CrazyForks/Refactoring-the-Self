@@ -66,7 +66,6 @@
 
 一个是冬天食堂里，严正兵把馒头掰成两半，递给我，什么都没说。
 
-## 💬 读者批注
 
 ![comments](https://commentsvg.coller.workers.dev/reconstruct/02-experimental-class-list.svg?lang=zh)
 

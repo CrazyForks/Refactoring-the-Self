@@ -94,7 +94,6 @@
 
 這一年沒有課本，沒有考試，沒有成績單。可我學到的東西，一點不比學校裏少——只是沒人給我打分。
 
-## 💬 读者批注
 
 ![comments](https://commentsvg.coller.workers.dev/reconstruct/03-four-hundred-ducks.svg?lang=zh)
 
