@@ -31,7 +31,9 @@
 
 👉 [阅读 第07章：《出租屋里的火气》](./chapters/07-rental-room-anger.md)
 
-👉 [阅读 第08章：《黑兮兮的修理槽》（预告）](./chapters/08-repair-pit.md)
+👉 [阅读 第08章：《黑兮兮的修理槽》](./chapters/08-repair-pit.md)
+
+👉 [阅读 第09章：《第一次大修》（预告）](./chapters/09-first-overhaul.md)
 
 ### 为什么写《底层重构》
 
