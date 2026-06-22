@@ -66,7 +66,7 @@
 
 ## 💬 读者批注
 
-![comments](https://commentsvg.coller.workers.dev/reconstruct/01-kicked-out-for-300.svg)
+![comments](https://commentsvg.coller.workers.dev/reconstruct/01-kicked-out-for-300.svg?lang=zh)
 
 
 [← 返回目录](../README.md) | [下一章：一七班与半个馒头 →](./02-experimental-class-list.md)

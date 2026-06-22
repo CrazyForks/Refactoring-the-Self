@@ -64,7 +64,7 @@
 
 ## 💬 读者批注
 
-![comments](https://commentsvg.coller.workers.dev/reconstruct/01-kicked-out-for-300.svg)
+![comments](https://commentsvg.coller.workers.dev/reconstruct/01-kicked-out-for-300.svg?lang=zh)
 
 ---
 

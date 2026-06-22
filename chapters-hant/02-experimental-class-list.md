@@ -68,7 +68,7 @@
 
 ## 💬 读者批注
 
-![comments](https://commentsvg.coller.workers.dev/reconstruct/02-experimental-class-list.svg)
+![comments](https://commentsvg.coller.workers.dev/reconstruct/02-experimental-class-list.svg?lang=zh)
 
 ---
 

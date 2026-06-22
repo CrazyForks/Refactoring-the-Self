@@ -96,7 +96,7 @@
 
 ## 💬 读者批注
 
-![comments](https://commentsvg.coller.workers.dev/reconstruct/03-four-hundred-ducks.svg)
+![comments](https://commentsvg.coller.workers.dev/reconstruct/03-four-hundred-ducks.svg?lang=zh)
 
 ---
 
