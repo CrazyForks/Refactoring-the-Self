@@ -64,4 +64,4 @@
 
 ---
 
-[← 返回目錄](../README-zh-Hant.md) | [下一章 →](./02-experimental-class-list.md)
+[← 返回目錄](../README.md) | [下一章：一七班與半個饅頭 →](./02-experimental-class-list.md)

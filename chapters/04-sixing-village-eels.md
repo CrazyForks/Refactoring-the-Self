@@ -78,4 +78,4 @@
 
 ---
 
-[← 上一章](./03-four-hundred-ducks.md) | [返回目录](../README.md) | [下一章 →](./05-grandpas-duck-shed.md)
+[← 上一章：第一次学会独自面对黑夜](./03-four-hundred-ducks.md) | [返回目录](../README.md) | [下一章：煤油灯 →](./05-grandpas-duck-shed.md)

@@ -142,4 +142,4 @@
 
 ---
 
-[← 上一章](./05-grandpas-duck-shed.md) | [返回目錄](../README-zh-Hant.md) | [下一章 →](./07-rental-room-anger.md)
+[← 上一章：煤油燈](./05-grandpas-duck-shed.md) | [返回目錄](../README.md) | [下一章：曹憨子的那盆水 →](./07-rental-room-anger.md)

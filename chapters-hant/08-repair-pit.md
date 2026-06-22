@@ -120,4 +120,4 @@
 
 ---
 
-[← 上一章](./07-rental-room-anger.md) | [返回目錄](../README.md) | [下一章 →](./09-first-overhaul.md)
+[← 上一章：曹憨子的那盆水](./07-rental-room-anger.md) | [返回目錄](../README.md) | [下一章：拆開不難，裝回去才難 →](./09-first-overhaul.md)

@@ -14,4 +14,4 @@
 
 ---
 
-[← 上一章](./08-repair-pit.md) | [返回目錄](../README.md)
+[← 上一章：那些叫"小師傅"的女孩](./08-repair-pit.md) | [返回目錄](../README.md)

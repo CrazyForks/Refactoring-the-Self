@@ -68,5 +68,5 @@
 
 ---
 
-[← 上一章](./01-kicked-out-for-300.md) | [返回目录](../README.md) | [下一章 →](./03-four-hundred-ducks.md)
+[← 上一章：三百块钱赶出了学校](./01-kicked-out-for-300.md) | [返回目录](../README.md) | [下一章：第一次学会独自面对黑夜 →](./03-four-hundred-ducks.md)
 
