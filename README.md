@@ -45,6 +45,12 @@
 
 把这些经历写下来，既是对自己的交代，也是想把那些走过的弯路、吃过的苦、重新站起来的过程，留给后来的人看一看。
 
+
+# 题外话
+
+如果《底层重构》让你有所共鸣，欢迎点个 Star，这是我继续写下去的动力。
+
+
 ![comments](https://commentsvg.coller.workers.dev/reconstruct/Refactoring-the-Self.svg?lang=zh)
 
 ---
