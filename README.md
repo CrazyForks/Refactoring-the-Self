@@ -33,7 +33,9 @@
 
 👉 [阅读 第08章：《黑兮兮的修理槽》](./chapters/08-repair-pit.md)
 
-👉 [阅读 第09章：《第一次大修》（预告）](./chapters/09-first-overhaul.md)
+👉 [阅读 第09章：《第一次大修》](./chapters/09-first-overhaul.md)
+
+👉 [阅读 第10章：《驾驶室里的卧铺》（预告）](./chapters/10-drivers-berth.md)
 
 ### 番外篇
 

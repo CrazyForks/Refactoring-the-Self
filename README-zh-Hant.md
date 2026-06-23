@@ -33,13 +33,27 @@
 
 👉 [閲讀 第08章：《黑兮兮的修理槽》](./chapters/08-repair-pit.md)
 
-👉 [閲讀 第09章：《第一次大修》（預告）](./chapters/09-first-overhaul.md)
+👉 [閲讀 第09章：《第一次大修》](./chapters/09-first-overhaul.md)
+
+👉 [閲讀 第10章：《駕駛室裏的卧鋪》（預告）](./chapters/10-drivers-berth.md)
+
+### 番外篇
+
+👉 [為了省點 Claude Code 錢，研究到了凌晨 3 點](./blog/too-poor-for-claude-code.md)
 
 ### 為什麼寫《底層重構》
 
 人生和軟件系統其實很像。都會積累技術債，都會經歷失控，也都需要不斷重構。
 
 把這些經歷寫下來，既是對自己的交代，也是想把那些走過的彎路、吃過的苦、重新站起來的過程，留給後來的人看一看。
+
+
+# 題外話
+
+如果《底層重構》讓你有所共鳴，歡迎點個 Star，這是我繼續寫下去的動力。
+
+
+![comments](https://commentsvg.coller.workers.dev/reconstruct/Refactoring-the-Self.svg?lang=zh)
 
 ---
 
