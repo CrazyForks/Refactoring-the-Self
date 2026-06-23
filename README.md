@@ -35,6 +35,10 @@
 
 👉 [阅读 第09章：《第一次大修》（预告）](./chapters/09-first-overhaul.md)
 
+### 番外篇
+
+👉 [为了省点 Claude Code 钱，研究到了凌晨 3 点](./blog/too-poor-for-claude-code.md)
+
 ### 为什么写《底层重构》
 
 人生和软件系统其实很像。都会积累技术债，都会经历失控，也都需要不断重构。
