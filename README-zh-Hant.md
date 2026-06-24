@@ -35,7 +35,9 @@
 
 👉 [閲讀 第09章：《第一次大修》](./chapters/09-first-overhaul.md)
 
-👉 [閲讀 第10章：《駕駛室裏的卧鋪》（預告）](./chapters/10-drivers-berth.md)
+👉 [閲讀 第10章：《駕駛室裏的卧鋪》](./chapters/10-drivers-berth.md)
+
+👉 [閲讀 第11章：《過年之前》（預告）](./chapters/11-before-new-year.md)
 
 ### 番外篇
 
@@ -68,3 +70,5 @@
 **Still learning.**
 
 **Still refactoring.**
+
+![訪客](https://visitor-badge.laobi.icu/badge?page_id=aihop.Refactoring-the-Self)
