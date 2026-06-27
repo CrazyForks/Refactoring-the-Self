@@ -39,7 +39,9 @@
 
 👉 [阅读 第11章：《过年之前》](./chapters/11-before-new-year.md)
 
-👉 [阅读 第12章：《点亮了》（预告）](./chapters/12-lit-up.md)
+👉 [阅读 第12章：《点亮了》](./chapters/12-lit-up.md)
+
+👉 [阅读 第13章：《跑车了》（预告）](./chapters/13-on-the-road.md)
 
 ### 番外篇
 
