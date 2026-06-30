@@ -1,3 +1,6 @@
+> 本文由 OpenCC 自動從簡體中文轉換為繁體中文（香港）。
+> 如有表達不自然之處，歡迎反饋。
+
 <p align="right">
   <a href="./README-zh-Hant.md">繁體中文</a>
 </p>
@@ -41,7 +44,9 @@
 
 👉 [閲讀 第12章：《點亮了》](./chapters/12-lit-up.md)
 
-👉 [閲讀 第13章：《跑車了》（預告）](./chapters/13-on-the-road.md)
+👉 [閲讀 第13章：《跑車了》](./chapters/13-on-the-road.md)
+
+👉 [閲讀 第14章：《紅葉網吧》（預告）](./chapters/14-redleaf-netbar.md)
 
 ### 番外篇
 

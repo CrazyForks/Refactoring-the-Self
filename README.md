@@ -41,7 +41,9 @@
 
 👉 [阅读 第12章：《点亮了》](./chapters/12-lit-up.md)
 
-👉 [阅读 第13章：《跑车了》（预告）](./chapters/13-on-the-road.md)
+👉 [阅读 第13章：《跑车了》](./chapters/13-on-the-road.md)
+
+👉 [阅读 第14章：《红叶网吧》（预告）](./chapters/14-redleaf-netbar.md)
 
 ### 番外篇
 
