@@ -54,6 +54,8 @@
 
 👉 [為了省點 Claude Code 錢，研究到了凌晨 3 點](./blog/too-poor-for-claude-code.md)
 
+👉 [我的老闆](./blog/my-boss.md)
+
 ### 為什麼寫《底層重構》
 
 人生和軟件系統其實很像。都會積累技術債，都會經歷失控，也都需要不斷重構。
