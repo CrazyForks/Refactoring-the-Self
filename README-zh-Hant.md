@@ -58,6 +58,8 @@
 
 👉 [我的老闆](./blog/my-boss.md)
 
+👉 [給連載小說做了一個輕量 SVG 訪客統計](./blog/lightweight-svg-analytics-for-serial-novels.md)
+
 ### 為什麼寫《底層重構》
 
 人生和軟件系統其實很像。都會積累技術債，都會經歷失控，也都需要不斷重構。
