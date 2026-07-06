@@ -103,10 +103,10 @@ GitHub 的图片代理很不老实。
 比如我在《底层重构》第 15 章里，会这样引用：
 
 ```markdown
-![Visits](https://svgstat.com/svg/refactoring-the-self/counter/visits.svg?page_id=chapters/15-first-boundary)
+![Visits](https://svgstat.com/svg/refactoring-the-self/counter/visits.svg?page_id=chapters/15-first-boundary&label=Visits)
 ```
 演示：
-![Visits](https://svgstat.com/svg/refactoring-the-self/counter/visits.svg?page_id=chapters/15-first-boundary)
+![Visits](https://svgstat.com/svg/refactoring-the-self/counter/visits.svg?page_id=chapters/15-first-boundary&label=Visits)
 
 这样我就知道，到底是第 15 章有人看，还是 README 有人看。
 
@@ -228,6 +228,5 @@ UV 目前是基于 `IP + User-Agent` 做哈希，Bot 也做了一层简单识别
 
 在线体验： https://svgstat.com
 
-演示：
 
-![Visits](https://svgstat.com/svg/refactoring-the-self/counter/visits.svg?page_id=blog/lightweight-svg-analytics-for-serial-novels)
+![Visits](https://svgstat.com/svg/refactoring-the-self/counter/visits.svg?page_id=blog/lightweight-svg-analytics-for-serial-novels&label=Visits)
