@@ -227,3 +227,7 @@ UV 目前是基于 `IP + User-Agent` 做哈希，Bot 也做了一层简单识别
 项目地址： https://github.com/aihop/svgstat
 
 在线体验： https://svgstat.com
+
+演示：
+
+![Visits](https://svgstat.com/svg/refactoring-the-self/counter/visits.svg?page_id=blog/lightweight-svg-analytics-for-serial-novels)
