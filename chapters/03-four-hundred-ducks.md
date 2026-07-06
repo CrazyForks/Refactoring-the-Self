@@ -101,3 +101,4 @@
 
 [← 上一章：一七班与半个馒头](./02-experimental-class-list.md) | [返回目录](../README.md) | [下一章：鼻青脸肿的笑 →](./04-sixing-village-eels.md)
 
+![Visits](https://svgstat.com/svg/refactoring-the-self/counter/visits.svg)

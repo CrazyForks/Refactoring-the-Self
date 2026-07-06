@@ -123,3 +123,5 @@ QQ还是不停地响。
 ---
 
 [← 上一章：蓝光里的另一个世界](./14-redleaf-netbar.md) | [返回目录](../README.md) | [下一章：人开始变得不耐烦的时候 →](./16-afterglow-of-windfall.md)
+
+![Visits](https://svgstat.com/svg/refactoring-the-self/counter/visits.svg)

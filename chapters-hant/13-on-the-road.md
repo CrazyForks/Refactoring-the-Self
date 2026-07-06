@@ -299,3 +299,5 @@
 ---
 
 [← 上一章：一把烙鐵與一碗紅燒肉](./12-lit-up.md) | [返回目錄](../README.md) | [下一章：藍光裏的另一個世界 →](./14-redleaf-netbar.md)
+
+![Visits](https://svgstat.com/svg/refactoring-the-self/counter/visits.svg)

@@ -79,3 +79,5 @@
 ---
 
 [← 上一章：第一次學會獨自面對黑夜](./03-four-hundred-ducks.md) | [返回目錄](../README.md) | [下一章：煤油燈 →](./05-grandpas-duck-shed.md)
+
+![Visits](https://svgstat.com/svg/refactoring-the-self/counter/visits.svg)

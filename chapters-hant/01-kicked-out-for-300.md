@@ -68,3 +68,5 @@
 
 
 [← 返回目錄](../README.md) | [下一章：一七班與半個饅頭 →](./02-experimental-class-list.md)
+
+![Visits](https://svgstat.com/svg/refactoring-the-self/counter/visits.svg)

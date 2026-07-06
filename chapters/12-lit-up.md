@@ -85,3 +85,5 @@
 ---
 
 [← 上一章：喂不饱的无底洞与五百万的梦](./11-before-new-year.md) | [返回目录](../README.md) | [下一章：从修理槽出来 →](./13-on-the-road.md)
+
+![Visits](https://svgstat.com/svg/refactoring-the-self/counter/visits.svg)

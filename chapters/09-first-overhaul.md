@@ -131,3 +131,5 @@
 ---
 
 [← 上一章：那些叫"小师傅"的女孩](./08-repair-pit.md) | [返回目录](../README.md) | [下一章：铁皮壳子里的光辉岁月 →](./10-drivers-berth.md)
+
+![Visits](https://svgstat.com/svg/refactoring-the-self/counter/visits.svg)

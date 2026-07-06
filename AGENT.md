@@ -169,3 +169,5 @@
 - OpenCC 仅做字符转换，不做词汇本地化（如"软件"不会转为"軟件"）
 - 导航链接中的路径无需转换，保持相对路径不变
 - 繁体版不单独维护正文内容，每次更新简体版后重新转换
+
+![Visits](https://svgstat.com/svg/refactoring-the-self/counter/visits.svg)

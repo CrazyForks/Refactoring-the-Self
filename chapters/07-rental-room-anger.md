@@ -205,3 +205,5 @@
 ---
 
 [← 上一章：千禧年，第一次进城的少年](./06-millennium-first-trip-to-city.md) | [返回目录](../README.md) | [下一章：那些叫"小师傅"的女孩 →](./08-repair-pit.md)
+
+![Visits](https://svgstat.com/svg/refactoring-the-self/counter/visits.svg)

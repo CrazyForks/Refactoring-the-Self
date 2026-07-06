@@ -73,3 +73,4 @@
 
 [← 上一章：三百塊錢趕出了學校](./01-kicked-out-for-300.md) | [返回目錄](../README.md) | [下一章：第一次學會獨自面對黑夜 →](./03-four-hundred-ducks.md)
 
+![Visits](https://svgstat.com/svg/refactoring-the-self/counter/visits.svg)

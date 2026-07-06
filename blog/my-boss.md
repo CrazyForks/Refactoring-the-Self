@@ -267,3 +267,5 @@
 或许，一百亿从来不是一个终点。
 
 它只是无数个普通日子、无数件普通小事，日复一日累积出来的结果。
+
+![Visits](https://svgstat.com/svg/refactoring-the-self/counter/visits.svg)

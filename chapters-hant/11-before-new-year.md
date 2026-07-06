@@ -93,3 +93,5 @@
 ---
 
 [← 上一章：鐵皮殼子裏的光輝歲月](./10-drivers-berth.md) | [返回目錄](../README.md) | [下一章：一把烙鐵與一碗紅燒肉 →](./12-lit-up.md)
+
+![Visits](https://svgstat.com/svg/refactoring-the-self/counter/visits.svg)

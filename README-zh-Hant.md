@@ -86,4 +86,4 @@
 
 **Still refactoring.**
 
-![訪客](https://visitor-badge.laobi.icu/badge?page_id=aihop.Refactoring-the-Self)
+![Visits](https://svgstat.com/svg/refactoring-the-self/counter/visits.svg)

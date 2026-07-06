@@ -11,3 +11,5 @@
 ---
 
 [← 上一章：一个轮胎、三百块钱](./15-first-boundary.md) | [返回目录](../README.md)
+
+![Visits](https://svgstat.com/svg/refactoring-the-self/counter/visits.svg)
