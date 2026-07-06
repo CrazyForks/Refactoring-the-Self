@@ -268,4 +268,4 @@
 
 它只是无数个普通日子、无数件普通小事，日复一日累积出来的结果。
 
-![Visits](https://svgstat.com/svg/refactoring-the-self/counter/visits.svg?label=Visits)
+![Visits](https://svgstat.com/svg/refactoring-the-self/counter/visits.svg?page_id=blog/my-boss)

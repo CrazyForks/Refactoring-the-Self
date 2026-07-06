@@ -86,4 +86,4 @@
 
 **Still refactoring.**
 
-![Visits](https://svgstat.com/svg/refactoring-the-self/counter/visits.svg?label=Visits)
+![Visits](https://svgstat.com/svg/refactoring-the-self/counter/visits.svg?page_id=readme-zh-hant)

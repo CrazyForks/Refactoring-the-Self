@@ -94,4 +94,4 @@
 
 [← 上一章：铁皮壳子里的光辉岁月](./10-drivers-berth.md) | [返回目录](../README.md) | [下一章：一把烙铁与一碗红烧肉 →](./12-lit-up.md)
 
-![Visits](https://svgstat.com/svg/refactoring-the-self/counter/visits.svg?label=Visits)
+![Visits](https://svgstat.com/svg/refactoring-the-self/counter/visits.svg?page_id=chapters/11-before-new-year)

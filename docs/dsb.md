@@ -126,4 +126,4 @@ Always respond in JSON only:
 }
 ```
 
-![Visits](https://svgstat.com/svg/refactoring-the-self/counter/visits.svg?label=Visits)
+![Visits](https://svgstat.com/svg/refactoring-the-self/counter/visits.svg?page_id=docs/dsb)

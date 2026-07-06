@@ -300,4 +300,4 @@
 
 [← 上一章：一把烙铁与一碗红烧肉](./12-lit-up.md) | [返回目录](../README.md) | [下一章：蓝光里的另一个世界 →](./14-redleaf-netbar.md)
 
-![Visits](https://svgstat.com/svg/refactoring-the-self/counter/visits.svg?label=Visits)
+![Visits](https://svgstat.com/svg/refactoring-the-self/counter/visits.svg?page_id=chapters/13-on-the-road)
