@@ -69,4 +69,4 @@
 
 [← 返回目录](../README.md) | [下一章：一七班与半个馒头 →](./02-experimental-class-list.md)
 
-![Visits](https://svgstat.com/svg/refactoring-the-self/counter/visits.svg)
+![Visits](https://svgstat.com/svg/refactoring-the-self/counter/visits.svg?label=Visits)

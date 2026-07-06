@@ -139,4 +139,4 @@
 
 [← 上一章：拆开不难，装回去才难](./09-first-overhaul.md) | [返回目录](../README.md) | [下一章：喂不饱的无底洞与五百万的梦 →](./11-before-new-year.md)
 
-![Visits](https://svgstat.com/svg/refactoring-the-self/counter/visits.svg)
+![Visits](https://svgstat.com/svg/refactoring-the-self/counter/visits.svg?label=Visits)

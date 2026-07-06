@@ -154,4 +154,4 @@
 
 [← 上一章：鼻青脸肿的笑](./04-sixing-village-eels.md) | [返回目录](../README.md) | [下一章：千禧年，第一次进城的少年 →](./06-millennium-first-trip-to-city.md)
 
-![Visits](https://svgstat.com/svg/refactoring-the-self/counter/visits.svg)
+![Visits](https://svgstat.com/svg/refactoring-the-self/counter/visits.svg?label=Visits)

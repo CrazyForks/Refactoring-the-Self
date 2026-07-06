@@ -80,4 +80,4 @@
 
 [← 上一章：第一次学会独自面对黑夜](./03-four-hundred-ducks.md) | [返回目录](../README.md) | [下一章：煤油灯 →](./05-grandpas-duck-shed.md)
 
-![Visits](https://svgstat.com/svg/refactoring-the-self/counter/visits.svg)
+![Visits](https://svgstat.com/svg/refactoring-the-self/counter/visits.svg?label=Visits)

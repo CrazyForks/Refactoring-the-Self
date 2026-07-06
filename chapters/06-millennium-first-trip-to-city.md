@@ -144,4 +144,4 @@
 
 [← 上一章：煤油灯](./05-grandpas-duck-shed.md) | [返回目录](../README.md) | [下一章：曹憨子的那盆水 →](./07-rental-room-anger.md)
 
-![Visits](https://svgstat.com/svg/refactoring-the-self/counter/visits.svg)
+![Visits](https://svgstat.com/svg/refactoring-the-self/counter/visits.svg?label=Visits)
