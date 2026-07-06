@@ -105,6 +105,8 @@ GitHub 的图片代理很不老实。
 ```markdown
 ![Visits](https://svgstat.com/svg/refactoring-the-self/counter/visits.svg?page_id=chapters/15-first-boundary)
 ```
+演示：
+![Visits](https://svgstat.com/svg/refactoring-the-self/counter/visits.svg?page_id=chapters/15-first-boundary)
 
 这样我就知道，到底是第 15 章有人看，还是 README 有人看。
 
