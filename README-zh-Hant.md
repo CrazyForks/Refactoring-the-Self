@@ -48,7 +48,9 @@
 
 👉 [閲讀 第14章：《紅葉網吧》](./chapters/14-redleaf-netbar.md)
 
-👉 [閲讀 第15章：《第一次越界》（預告）](./chapters/15-first-boundary.md)
+👉 [閲讀 第15章：《第一次越界》](./chapters/15-first-boundary.md)
+
+👉 [閲讀 第16章：《歪財的餘溫》（預告）](./chapters/16-afterglow-of-windfall.md)
 
 ### 番外篇
 
