@@ -47,7 +47,9 @@
 
 👉 [阅读 第15章：《第一次越界》](./chapters/15-first-boundary.md)
 
-👉 [阅读 第16章：《歪财的余温》（预告）](./chapters/16-afterglow-of-windfall.md)
+👉 [阅读 第16章：《歪财的余温》](./chapters/16-afterglow-of-windfall.md)
+
+👉 [阅读 第17章：《飞车》（预告）](./chapters/17-motorcycle-crash.md)
 
 ### 番外篇
 
