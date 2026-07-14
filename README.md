@@ -51,7 +51,9 @@
 
 👉 [阅读 第16章：《歪财的余温》](./chapters/16-afterglow-of-windfall.md)
 
-👉 [阅读 第17章：《飞车》（预告）](./chapters/17-motorcycle-crash.md)
+👉 [阅读 第17章：《飞车》](./chapters/17-motorcycle-crash.md)
+
+👉 [阅读 第18章：《欠债》（预告）](./chapters/18-debt.md)
 
 ### 番外篇
 
