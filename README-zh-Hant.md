@@ -57,7 +57,9 @@
 
 👉 [閲讀 第17章：《飛車》](./chapters/17-motorcycle-crash.md)
 
-👉 [閲讀 第18章：《欠債》（預告）](./chapters/18-debt.md)
+👉 [閲讀 第18章：《欠債》](./chapters/18-debt.md)
+
+👉 [閲讀 第19章：《太平斧》（預告）](./chapters/19-war-axe.md)
 
 ### 番外篇
 
